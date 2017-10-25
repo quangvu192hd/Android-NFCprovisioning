@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\DUCNT\\Desktop\\android-NfcProvisioning\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\DUCNT\\.android\\build-cache\\e78341e99cf38a6c84f05c661a65feeb3594aabe\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\DUCNT\\Desktop\\android-NfcProvisioning\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\DUCNT\\.android\\build-cache\\e78341e99cf38a6c84f05c661a65feeb3594aabe\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\DUCNT\\Desktop\\android-NfcProvisioning\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\DUCNT\\.android\\build-cache\\e78341e99cf38a6c84f05c661a65feeb3594aabe\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\DUCNT\\Desktop\\android-NfcProvisioning\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\DUCNT\\.android\\build-cache\\e78341e99cf38a6c84f05c661a65feeb3594aabe\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
